@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: beige;
+}
+
+.ullist ul li {
+    list-style:none;
+
+}
+
+h2{
+    color: red;
+}
+
+h1{
+    color: red;
+}
+
+h3{
+    color: red;
+}
+
+.ollist ol li {
+    list-style: none;
+    
+}
