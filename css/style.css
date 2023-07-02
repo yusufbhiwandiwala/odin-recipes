@@ -1,11 +1,13 @@
 * {
     /* border: 2px solid red; */
     box-sizing: border-box;
+    
 }
 
 body {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    /* background-color: grey; */
+    background-color: beige;
+    
 }
 
 h1 {
@@ -15,13 +17,12 @@ h1 {
     padding: 30px;
 }
 
-
 .container {
     width: 650px;
     height: 900px;
     margin: 20px auto;
     border: 2px solid darkblue;
-    background-color: #cbc6ba;
+    background-color: white;
     box-shadow: 10px;
 }
 

@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.container {
+    width: 800px;
+    margin: auto;
+    border: 2px solid red;
+    /* background-color: beige; */
+    text-align: center;
+}
+
+h1 {
+    color: ;
+}
+
+.recipe-card img{
+   width: 300px;
+   display: inline-block;
+   margin-right: 500px;
+}
